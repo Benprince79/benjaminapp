@@ -17,35 +17,3 @@ body{
 P{
 	color:rgb(255, 255, 255);
 }
-img{
-	height: 500PX;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	
-}
-img{
-		height: 200px;
-		width: 200px;
-		margin: 20p
-}
-.i{
-	height: 200PX;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-left: 400px;
-}
-.footer{
-	background-color: tomato;
-	color: white;
-	padding: 40px;
-
-}
-.footer-link{
-	text-decoration: none;
-	color: white;
-	align-items: center;
-	padding: 2px;
-
-}
